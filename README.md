@@ -2,7 +2,7 @@
 
 Alias for csp-bot
 
-[![Build Status](https://github.com/timkpaine/csp-chat/actions/workflows/build.yml/badge.svg?branch=main&event=push)](https://github.com/timkpaine/csp-chat/actions/workflows/build.yml)
+[![Build Status](https://github.com/timkpaine/csp-chat/actions/workflows/build.yaml/badge.svg?branch=main&event=push)](https://github.com/timkpaine/csp-chat/actions/workflows/build.yaml)
 [![codecov](https://codecov.io/gh/timkpaine/csp-chat/branch/main/graph/badge.svg)](https://codecov.io/gh/timkpaine/csp-chat)
 [![License](https://img.shields.io/github/license/timkpaine/csp-chat)](https://github.com/timkpaine/csp-chat)
 [![PyPI](https://img.shields.io/pypi/v/csp-chat.svg)](https://pypi.python.org/pypi/csp-chat)
