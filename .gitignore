@@ -146,6 +146,7 @@ csp_chat/extension
 # Jupyter
 .ipynb_checkpoints
 .autoversion
+Untitled*.ipynb
 !csp_chat/extension/csp_chat.json
 !csp_chat/extension/install.json
 csp_chat/nbextension
