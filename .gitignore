@@ -141,14 +141,12 @@ js/node_modules
 js/test-results
 js/playwright-report
 js/*.tgz
-csp_chat/extension
 
 # Jupyter
 .ipynb_checkpoints
 .autoversion
 Untitled*.ipynb
-!csp_chat/extension/csp_chat.json
-!csp_chat/extension/install.json
+csp_chat/extension
 csp_chat/nbextension
 csp_chat/labextension
 
@@ -157,3 +155,7 @@ csp_chat/labextension
 
 # Rust
 target
+
+# Hydra
+outputs/
+multirun/
