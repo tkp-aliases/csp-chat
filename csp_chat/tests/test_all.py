@@ -1,4 +1,4 @@
-from csp_chat import *  # noqa
+from csp_chat import *
 
 
 def test_all():
